@@ -4,5 +4,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "scripts": {
+    "start": "supervisor index.js"
   }
 }
